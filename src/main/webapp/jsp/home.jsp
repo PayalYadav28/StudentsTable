@@ -22,7 +22,7 @@
       <div class="container-fluid">
         <a class="navbar-brand" href="#"></a>
       </div>
-    </nav>
+    </nav> 
 
     <div class="container">
       <div class="d-flex bd-highlight mb-3">

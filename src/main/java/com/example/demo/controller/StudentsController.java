@@ -61,7 +61,7 @@ public class StudentsController {
 	}
 	
 	
-	@RequestMapping("/update")
+	@GetMapping("/update")
 	public String update(@ModelAttribute Students s,HttpServletRequest req,HttpServletResponse res) {
 		
 		
